@@ -1,0 +1,24 @@
+h1 {
+  color: #78D5FA;
+}
+body {
+    background: url("http://www.thelatestnews.com/wp-content/uploads/2015/11/Bruce-Lee.jpg");
+}
+
+table {
+    border-width: 4px;
+    border-color: #F2EF27;
+    border-style: solid;
+    color: #FA7A78;
+}
+
+td {
+    border-width: 4px;
+    border-color: #FF8929;
+    border-style: solid;
+}
+p {
+    color: #888888;
+    background-color: #F2EF27;
+}
+/* need more styles */
